@@ -1,8 +1,8 @@
 print('my frist git test')
 print('my frist git test')
+print'my frist git test'
 print('my frist git test')
-print('my frist git test')
-print('my frist git test')
+print my frist git test
 print('my frist git test')
 print('my frist git test')
 print('my frist git test')
